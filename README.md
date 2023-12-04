@@ -32,7 +32,7 @@ Example of Broadcast
 
 =================================================================================================================================================
 
-Concerning Packet Tracer (Everyone)
+Concerning Packet Tracer (Clément MALON)
 
 Here are the results of sending a JPG file from a client to the server.
 We can see a lot of TCP segments of a reassembled PDU because the JPG file is send by chunks of data.
