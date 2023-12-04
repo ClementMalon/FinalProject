@@ -30,3 +30,11 @@ Example of Unicast
 Example of Broadcast
 ![BroadcastPacketTracer](https://github.com/ClementMalon/FinalProject/assets/92983136/bd0c7b0e-a33f-4dc2-9ee7-56ef6843a3ab)
 
+=================================================================================================================================================
+
+Concerning Packet Tracer (Everyone)
+
+Here are the results of sending a JPG file from a client to the server.
+We can see a lot of TCP segments of a reassembled PDU because the JPG file is send by chunks of data.
+At the end, we can see a line with 'FIN' confirming that the entirety of the file has been received.
+![Wireshark](https://github.com/ClementMalon/FinalProject/assets/92983136/6760099d-f896-471e-8655-2b1ac4668505)
